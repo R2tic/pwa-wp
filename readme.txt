@@ -48,4 +48,4 @@ Please see the [frequently asked questions](https://github.com/GoogleChromeLabs/
 
 == Changelog ==
 
-For the plugin’s changelog, please see [the Releases page on GitHub](https://github.com/GoogleChromeLabs/pwa-wp/releases).
+For the plugin’s changelog, please see [the Releases page on GitHub](https://github.com/GoogleChromeLabs/pwa-wp/releases)
